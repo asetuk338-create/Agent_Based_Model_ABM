@@ -2,7 +2,7 @@
 ## ABM
 ### 1、文献支撑
 #### [理论2020 AER: Artificial Intelligence, Algorithmic Pricing, and Collusion （ABM+合谋）](./可行性讨论.md)
-#### [实证Algorithmic Pricing and Competition: Empirical Evidence from the German Retail Gasoline Market，Journal of Political Economy](./Algorithmic Pricing and Competition Empirical Evidence from the German Retail Gasoline Market.md)
+#### [实证Algorithmic Pricing and Competition: Empirical Evidence from the German Retail Gasoline Market，Journal of Political Economy](./Empirical.md)
 ### 2、可行性讨论
 （1）[代码](./双寡头ABM_pricing.ipynb)
 跑一次大概几秒钟；Q-learning技术实现不难
