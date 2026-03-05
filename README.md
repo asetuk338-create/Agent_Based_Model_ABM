@@ -1,10 +1,10 @@
 # 大创选题
 ## ABM
 ### 1、文献支撑
-#### 理论2020 AER: Artificial Intelligence, Algorithmic Pricing, and Collusion （ABM+合谋）
-#### 实证Algorithmic Pricing and Competition: Empirical Evidence from the German Retail Gasoline Market，Journal of Political Economy
+#### [理论2020 AER: Artificial Intelligence, Algorithmic Pricing, and Collusion （ABM+合谋）](./可行性讨论.md)
+#### [实证Algorithmic Pricing and Competition: Empirical Evidence from the German Retail Gasoline Market，Journal of Political Economy](./“Algorithmic Pricing and Competition Empirical Evidence from the German Retail Gasoline Market” (Assad 等, 2024, p. 723).md)
 ### 2、可行性讨论
-（1）代码
+（1）[代码](./双寡头ABM_pricing.ipynb)
 跑一次大概几秒钟；Q-learning技术实现不难
 （2）有没有“ABM+”的可能？
 **idea1**  非对称需求会打破算法合谋吗？修改原来代码的demand函数 不用Logit需求。设定平台A有30%绝对不会走的用户，平台B只有10%
